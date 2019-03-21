@@ -1,6 +1,6 @@
 {
   "name": "camunda-node-client",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Camunda API Client for Nodejs",
   "main": "index.js",
   "scripts": {
